@@ -1,4 +1,4 @@
-Hey there! (https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966)
+Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
 I'm **Oreee**, a backend developer.
 
@@ -7,6 +7,8 @@ I design and build whatever i can imagine.
 The thought of taking on new challenges always excites me.
 
 My main tech stack is Python, Flask and FastApi.
+
+On my journey of becoming a cracked software engineer...wish me luck
 
 I’ve got a bunch of pinned projects, but my favorite is the
 
