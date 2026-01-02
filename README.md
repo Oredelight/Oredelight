@@ -10,7 +10,7 @@ My main tech stack is Python, Flask and FastApi.
 
 On my journey of becoming a cracked software engineer...wish me luck
 
-I’ve got a bunch of pinned projects, but my favorite one is 
+I’ve got a bunch of pinned projects, but my favorite one is <a href="https://github.com/Oredelight/Personal-Blog">Personal Blog</a>
 
 Currently working on some personal projects so stay tuned🫠
 
