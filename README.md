@@ -1,4 +1,4 @@
-## Hey there! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/09ec09b4-c4ea-4dc7-a0ec-22dced44a713" />
+## Hey there! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/09ec09b4-c4ea-4dc7-a0ec-22dced44a713"/>
 
 I'm **Oreee**, a backend developer. 
 I design and build whatever i can imagine.
