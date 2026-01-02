@@ -18,5 +18,5 @@ Currently working on some personal projects.
 ### Fun Facts:
 - I love money — and yes, I believe it brings happiness.
 - My favorite artist is **Jennie** (and I’m unapologetically loud about it)
-- TCoding used to scare me; now I can’t imagine a day without it
+- Coding used to scare me; now I can’t imagine a day without it
 - **Hobbies**: reading,watching Tiktok, building things
