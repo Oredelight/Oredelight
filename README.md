@@ -1,10 +1,10 @@
-## Hey there! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/09ec09b4-c4ea-4dc7-a0ec-22dced44a713"/>
+## Hey there! https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966
 
-I'm **Oreee**, a backend developer. 
-I design and build whatever i can imagine.
-The thought of taking on new challenges always excites me.
-My main tech stack is Python, Flask and FastApi.
-I’ve got a bunch of pinned projects, but my favorite is the 
+I'm **Oreee**, a backend developer.\ 
+I design and build whatever i can imagine.\
+The thought of taking on new challenges always excites me.\
+My main tech stack is Python, Flask and FastApi.\
+I’ve got a bunch of pinned projects, but my favorite is the\
 Currently working on some personal projects so stay tuned🫠
 
 ###Fun Facts:
