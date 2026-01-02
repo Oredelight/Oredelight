@@ -10,7 +10,7 @@ My main tech stack is Python, Flask and FastApi.
 
 On my journey of becoming a cracked software engineer...wish me luck
 
-I’ve got a bunch of pinned projects, but my favorite is the
+I’ve got a bunch of pinned projects, but my favorite one is 
 
 Currently working on some personal projects so stay tuned🫠
 
@@ -19,17 +19,3 @@ Currently working on some personal projects so stay tuned🫠
 - My favorite artist is Jennie (i'm very loud about her)
 - There was a point in my life where coding scares me but now, i don't think i can go a day without coding
 - **Hobbies**: Reading,watching Tiktok, building things
-<!--
-**Soft girl in tech ✨ Backend Developer ✨ Problem Solver
-
-🌟 About Me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
