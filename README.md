@@ -12,7 +12,7 @@ I’m steadily growing into a strong software engineer — learning, building, a
 
 I’ve got a few pinned projects below, and my favorite one is <a href="https://github.com/Oredelight/Personal-Blog">Personal Blog</a>.
 
-Currently working on some personal projects.
+Currently building a Job board Scraper API.
 
 
 ### Fun Facts:
