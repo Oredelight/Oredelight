@@ -10,7 +10,7 @@ My main tech stack is **Python**, **Flask**, and **FastAPI**.
 
 I’m steadily growing into a strong software engineer — learning, building, and improving with every project.
 
-I’ve got a few pinned projects below, and my favorite one is <a href="https://github.com/Oredelight/Personal-Blog">Personal Blog</a>.
+I’m on the journey of buliding something really cool and useful to mankind
 
 Currently building a Job board Scraper API.
 
