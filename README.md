@@ -10,13 +10,10 @@ My main tech stack is **Python**, **Flask**, and **FastAPI**.
 
 I’m steadily growing into a strong software engineer — learning, building, and improving with every project.
 
-I’m on the journey of buliding something really cool and useful to mankind
-
-Currently building a Job board Scraper API.
+I’m on the journey of buliding something really cool and useful to mankind.
 
 
 ### Fun Facts:
 - I love money — and yes, I believe it brings happiness.
 - My favorite artist is **Jennie** (and I’m unapologetically loud about it)
 - Coding used to scare me; now I can’t imagine a day without it
-- **Hobbies**: reading,watching Tiktok, building things
