@@ -6,7 +6,7 @@ I design and build whatever I can imagine, and I enjoy taking on new challenges 
 
 The thought of taking on new challenges always excites me.
 
-My main tech stack is **Python**, **Flask**, and **FastAPI**.
+My main tech stack is **Python**, **Flask**, **FastAPI**, and **Django**
 
 I’m steadily growing into a strong software engineer — learning, building, and improving with every project.
 
