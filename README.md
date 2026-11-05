@@ -1,4 +1,4 @@
-# <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="29" />Hey, I'm Oreee
+# <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="35" />Hey, I'm Oreee
 
 **Software Developer | Backend Development | Building things that solve real problems ✨**
 
@@ -21,35 +21,34 @@ I believe there's always something new to learn, and I'm here for all of it.
 
 ### 🚀 Projects I've Built
 
-**🎓 [NumberQuest](YOUR_REPOSITORY_LINK)**
+**🎓 [NumberQuest]()**
 
 An adaptive K-5 math tutoring application designed to make learning mathematics interactive. Features include multiple difficulty levels, progress tracking, mastery-based learning, and AI-powered misconception detection.
 
 `Python` `JavaScript` `Gemini API` `Vercel`
 
-**🍔 [Chuks Kitchen](YOUR_REPOSITORY_LINK)**
+**🍔 [DeliFoods](https://github.com/Oredelight/On-demand-Logistic-Platfrom-Server-Infrastucture)**
 
 A food ordering backend with authentication, role-based access, OTP verification, and order management.
 
 `Python` `FastAPI` `SQLite` `Alembic` `Redis` `JWT`
 
-**📥 [Video Downloader](YOUR_REPOSITORY_LINK)**
+**📥 [Video Downloader](https://github.com/Oredelight/Video-Downloader)**
 
 A Django-powered video downloader that uses yt-dlp to handle video extraction and downloading.
 
 `Python` `Django` `yt-dlp` `Docker` `FFmpeg`
 
-**🌦️ [Flask Weather API](YOUR_REPOSITORY_LINK)**
+**✍️ [Dreamy Checker](https://github.com/Oredelight/grammar-checker)**
 
-A weather API built with Flask, featuring Redis caching and rate limiting for improved performance and controlled API usage.
+An application designed to check grammar and help improve written text.
 
-`Python` `Flask` `Redis` `Flask-Limiter`
+`Python` `FastAPI` `Rapid Fuzz` `Gemini 2.5`
 
-**📊 [GitHub Activity CLI](YOUR_REPOSITORY_LINK)**
+**🧠 [Profile Intelligence Service](https://github.com/Oredelight/profile-intelligence-service)**
 
-A command-line tool for retrieving and displaying GitHub activity from the terminal.
+A backend service focused on profile data processing and intelligence.
 
-`Python` `CLI` `GitHub API`
 
 ---
 
@@ -74,16 +73,6 @@ A command-line tool for retrieving and displaying GitHub activity from the termi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🌱 Currently Learning
-
-- Deepening my knowledge of backend architecture and system design.
-- Exploring distributed systems and scalable applications.
-- Improving my understanding of AI integration and intelligent applications.
 
 ---
 
@@ -91,9 +80,9 @@ A command-line tool for retrieving and displaying GitHub activity from the termi
 
 I'm always open to interesting opportunities, collaborations, and conversations about technology.
 
-- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- 📧 **Email:** [Let's talk](YOUR_EMAIL)
-- 🐙 **GitHub:** [Explore my repositories](YOUR_GITHUB_URL)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hephzibaholuwasina)
+- 📧 **Email:** [Let's talk](oredelight@gmail.com)
+- 🐙 **GitHub:** [Explore my repositories](https://github.com/Oredelight?tab=repositories)
 
 ---
 
